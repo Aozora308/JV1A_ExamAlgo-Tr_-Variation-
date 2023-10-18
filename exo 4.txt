@@ -1,1 +1,1 @@
-malgré qu'il soit très lent, il est très facile a executer
+malgré qu'il soit très lent, il est très facile a executer, en ce qui concerne son temp de chargement on peut tout simplement limiter le nombre d'élément
